@@ -1,1 +1,1 @@
-# overdrive : Plateforme musicale | Symfony | Vue.js | PostgreSQL
+# Symfony 7 | Vue.js 3 | PostgreSQL 17
