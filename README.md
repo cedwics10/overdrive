@@ -1,4 +1,4 @@
-# Symfony 7 | Vue.js 3 | PostgreSQL 17
+# Overdrive
 
 ## Description
 Une application de streaming musicale simple pour gérer l'écoute de sa musique.
