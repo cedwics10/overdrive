@@ -25,6 +25,7 @@ CREATE TABLE user_role (
 -- Table artist (lié à user)
 CREATE TABLE artist (
     id INT PRIMARY KEY,
+    name VARCHAR(255),
     bio TEXT,
     image_url VARCHAR(255),
     CONSTRAINT fk_artist_user FOREIGN KEY (id) REFERENCES user(id) ON DELETE CASCADE
