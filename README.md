@@ -1,7 +1,7 @@
 # Overdrive
 
 ## Description
-Une application de streaming musicale simple pour gérer l'écoute de sa musique.
+Une application de streaming musical simple pour gérer l'écoute de sa musique.
 
 ## Installation
 
