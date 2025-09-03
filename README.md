@@ -9,6 +9,6 @@ Une application de streaming musical simple pour gérer l'écoute de sa musique.
 
 ```bash
 git clone <url-du-projet>
-cd <nom-du-projet>
+cd <nom-du-projet>```
 
 2. Docker (à suivre)
